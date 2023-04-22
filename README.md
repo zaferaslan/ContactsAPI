@@ -1,4 +1,4 @@
 # ContactsAPI
-- **ASP.NET Core Web API CRUD With Entity Framework
+- ASP.NET Core Web API CRUD With Entity Framework
 
 
